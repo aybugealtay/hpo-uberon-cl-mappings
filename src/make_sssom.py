@@ -137,7 +137,7 @@ import pandas as pd
 OBO = "http://purl.obolibrary.org/obo/"
 
 # Replace with the permanent location of the published files
-MAPPING_SET_BASE = "https://example.org/REPLACE-ME/"
+MAPPING_SET_BASE = "https://github.com/P2GX/hpo-uberon-cl-mappings/raw/main/data/outputs/sssom/"
 LICENSE = "https://creativecommons.org/licenses/by/4.0/"
 
 PLACEHOLDER_ORCID = "0000-0000-0000-0000"   # used until --creator-orcid is given

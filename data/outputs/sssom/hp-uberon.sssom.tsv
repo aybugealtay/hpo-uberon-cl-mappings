@@ -8,12 +8,12 @@
 #  obo: http://purl.obolibrary.org/obo/
 #  oboInOwl: http://www.geneontology.org/formats/oboInOwl#
 #  orcid: https://orcid.org/
-#mapping_set_id: https://example.org/REPLACE-ME/hp-uberon.sssom.tsv
-#mapping_set_version: 2026-10-23
+#mapping_set_id: https://github.com/P2GX/hpo-uberon-cl-mappings/raw/main/data/outputs/sssom/hp-uberon.sssom.tsv
+#mapping_set_version: 2026-11-19
 #mapping_set_title: HPO to Uberon links from HPO logical definitions
 #mapping_set_description: "9102 links from HPO phenotypes to Uberon terms. Direct links: the Uberon term appears in the HPO term's own logical definition. Propagated links, for HPO terms without a direct link: the link of the nearest HPO ancestor is used when the target's label, exact synonym or relational adjective appears as whole words in the phenotype label (case-insensitive, punctuation ignored, plural -s/-es allowed on the last word); only propagated links judged plausible in an automated review are included. predicate_id is the relation directly before the target in the HPO definition, a shorthand for the full relation path given in each comment."
 #creator_id:
-#  - orcid:0000-0002-1825-0097
+#  - orcid:0000-0000-0000-0000
 #license: https://creativecommons.org/licenses/by/4.0/
 #subject_type: owl class
 #subject_source: obo:hp.owl

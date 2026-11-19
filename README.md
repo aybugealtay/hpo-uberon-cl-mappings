@@ -1,4 +1,4 @@
-# OntoXRefExtractor
+# hpo-uberon-cl-mappings
 
 Links phenotypes in the **Human Phenotype Ontology (HPO)** to the anatomy (**Uberon**) and cell types (**Cell Ontology**) they describe, and exports the links as **[SSSOM](https://mapping-commons.github.io/sssom/)** mapping sets.
 
