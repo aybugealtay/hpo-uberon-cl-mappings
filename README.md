@@ -18,8 +18,8 @@ HP:0004444  Spherocytosis              →  CL:0000232      erythrocyte
 ## Installation
 
 ```bash
-git clone https://github.com/aybugealtay/OntoXRefExtractor.git
-cd OntoXRefExtractor
+git clone https://github.com/P2GX/hpo-uberon-cl-mappings.git
+cd hpo-uberon-cl-mappings
 pip install -r requirements.txt
 ```
 
